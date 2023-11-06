@@ -17,5 +17,3 @@ In order to integrate with Figma's REST API into our Design Token system, we had
 1. Understand the POST format
 1. Create the "Themes" collection
 1. Capture and store variables IDs
-
-## 1. Create basic API call
